@@ -1,1 +1,15 @@
-# Prodigy_DS_02
+# Task 2: Perform data cleaning and exploratory data analysis (EDA) on a Titanic dataset from Kaggle. Explore the relationships between variables and identify patterns and trends in the data.
+
+Data description
+Below are the description of the features in the data:
+
+Survival: 0 = Did not survive, 1 = Survived
+Pclass: Ticket class where 1 = First class, 2 = Second class, 3 = Third class. This can also be seen as a proxy for socio-economic status.
+Sex: Male or female
+Age: Age in years, fractional if less than 1
+SibSp: Number of siblings or spouses aboard the titanic
+Parch: Number of parents or children aboard the titanic
+Ticket: Passenger ticket number
+Fare: Passenger fare
+Cabin: Cabin number
+Embarked: Point of embarkation where C = Cherbourg, Q = Queenstown, S = Southampton
